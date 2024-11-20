@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personagens de Quarta Asa</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Personagens de "Quarta Asa"</h1>
+            <nav>
+                <ul>
+                    <li><a href="#sobre">Sobre o Livro</a></li>
+                    <li><a href="#personagens">Personagens</a></li>
+                    <li><a href="#sobre-autora">Sobre a Autora</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="sobre" class="intro">
+        <div class="container">
+            <h2>Sobre o Livro</h2>
+            <p>"Quarta Asa" é o primeiro livro da série *A Era das Sombras*, escrita por Bárbara Morais. A história se passa em um mundo de fantasia onde magia, política e mistério se entrelaçam. O livro acompanha a jornada de diversos personagens enquanto enfrentam desafios e descobertas pessoais.</p>
+        </div>
+    </section>
+
+    <section id="personagens" class="personagens">
+        <div class="container">
+            <h2>Principais Personagens</h2>
+
+            <div class="personagem">
+                <h3>Ari</h3>
+                <img src="ari.jpg" alt="Ari" />
+                <p>Ari é uma das protagonistas da história. Ela é inteligente, determinada e possui um grande talento para a magia. Sua jornada é cheia de desafios enquanto tenta entender seu destino e seu papel no mundo mágico.</p>
+            </div>
+
+            <div class="personagem">
+                <h3>Matheus</h3>
+                <img src="matheus.jpg" alt="Matheus" />
+                <p>Matheus é um personagem intrigante, com uma conexão misteriosa com o mundo das sombras. Ao longo do livro, ele evolui, revelando mais sobre suas motivações e suas relações com outros personagens.</p>
+            </div>
+
+            <div class="personagem">
+                <h3>Luciana</h3>
+                <img src="luciana.jpg" alt="Luciana" />
+                <p>Luciana é uma amiga leal de Ari, com uma personalidade forte e um grande senso de justiça. Ela desempenha um papel fundamental ao apoiar Ari nas situações mais difíceis.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="sobre-autora" class="sobre-autora">
+        <div class="container">
+            <h2>Sobre a Autora</h2>
+            <p>Bárbara Morais é uma autora brasileira conhecida por suas obras de fantasia e ficção científica. Com "A Era das Sombras", ela conquistou leitores ao criar um universo rico e envolvente, cheio de personagens complexos e situações desafiadoras.</p>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Personagens de Quarta Asa. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+</body>
+</html>
